@@ -1,0 +1,62 @@
+.nav.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+
+  }
+
+
+.container-detail
+{
+    display: flex;
+    margin: 50px 0px;
+}
+
+.tentang-paket
+{
+    width: 50%;
+    margin-left: 120px;
+    margin-top: 31px;
+    margin-bottom: 80px;
+
+}
+
+.Accordion.Header
+{
+    font-weight: bold;
+}
+
+.btn-pembayaran
+{
+    margin-left: 570px;
+    margin-top: 24px;
+}
+
+.info-mobil 
+{
+    margin-top: 31px;
+    padding-left: 32px;
+}
+
+.mobil-img
+{
+    padding: 68px 28px;
+}
+
+
+
+.total
+{
+    padding-top: 50px;
+}
+
+.harga
+{
+    margin-left: 260px;
+    font-weight: bold;
+}
+
+.btn-pembayaran2
+{
+    width: 365px;
+}

@@ -1,0 +1,70 @@
+.container-footer 
+{
+  margin: 100px 120px;
+  display: flex;
+}
+
+.address 
+{
+  padding-right: 110px;
+}
+
+.address p 
+{
+  font-family: Helvetica;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 20px;
+  letter-spacing: 0em;
+  text-align: left;
+  padding-bottom: 5px;
+}
+
+.pages 
+{
+  padding-right: 180px;
+}
+
+.pages ul
+{     
+    font-family: Helvetica;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    list-style: none;
+}
+
+.pages ul li
+{
+    padding-bottom: 13px;
+}
+
+.pages ul li a
+{
+    text-decoration: none;
+    color: black;
+}
+
+.pages ul li a:hover
+{
+    text-decoration: underline;
+    color: #0D28A6;
+}
+
+.contact 
+{
+  padding-right: 140px;
+}
+
+.contact a
+{
+    padding-right: 15px;
+}
+
+.copyright img
+{
+    padding-top: 5px;
+    padding-right: 150px;
+}

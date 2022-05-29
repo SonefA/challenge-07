@@ -1,0 +1,98 @@
+.body {
+    padding: 0;
+    margin: 0;
+}
+
+
+/* HEADER  <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<<*/
+
+.header-tiket {
+    display: flex;
+    background-image: url('../../Asset/Img/General/Rectangle\ 75.svg');
+    width: 1528px;
+    height: 120px;
+}
+
+.header-left {
+    display: flex;
+    margin: 30px 5px 5px 180px;
+}
+
+.header-left h5 {
+    font-weight: bolder;
+}
+
+.title-tiket {
+    margin: 0px 5px 5px 30px;
+}
+
+.header-right {
+    margin: 30px 5px 5px 580px;
+}
+
+.stepByStep {
+    display: flex;
+}
+
+.stepByStep p {
+    margin: 45px 12px 5px 12px;
+}
+
+.sbsElement1 {
+    margin-right: 12px;
+}
+
+
+/* CONTENT TIKET <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<< <<<<<<<<<<*/
+
+.content-tiket {
+    height: 700px;
+}
+
+.content-notif img {
+    margin: 70px 10px 10px 750px;
+}
+
+.content-notif h4 {
+    margin: 20px 10px 10px 670px;
+    font-weight: bold;
+}
+
+.content-notif p {
+    margin: 20px 10px 10px 610px;
+}
+
+.content-invoice {
+    border: ridge;
+    box-shadow: 2px 2px 4px #00000026;
+    width: 700px;
+    height: 400px;
+
+    margin: 20px 10px 10px 450px;
+    padding-top: 35px;
+}
+
+.invoice-ket {
+    display: flex;
+}
+
+.invoice-ket ul h6 {
+    font-weight: bold;
+}
+
+.invoice-ket button {
+    margin-left: 455px;
+    background-color: white;
+    color: black;
+    border: 2px solid #0D28A6;
+    border-radius: 3px;
+    margin-bottom: 50px;
+    width: 105x;
+    height: 40px;
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+.invoice-ket label {
+    color: #0D28A6;
+}
